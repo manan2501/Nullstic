@@ -1,7 +1,7 @@
 # Nullstic
--This is WebApp to report anonymous illegal plastic use.
--It was made in SARTHACK Hackathon organized by Surat Muncipal Corporation.
--WebApp is made using react
+- This is WebApp to report anonymous illegal plastic use.
+- It was made in SARTHACK Hackathon organized by Surat Muncipal Corporation.
+- WebApp is made using react
 
 # TEAM MEMBERS
 * [Bhavesh Suthar](https://github.com/bhavesh0206s)
