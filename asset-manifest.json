@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nullstic/static/css/main.0784a744.chunk.css",
+    "main.js": "/Nullstic/static/js/main.4836241b.chunk.js",
+    "main.js.map": "/Nullstic/static/js/main.4836241b.chunk.js.map",
+    "runtime-main.js": "/Nullstic/static/js/runtime-main.5b4e4971.js",
+    "runtime-main.js.map": "/Nullstic/static/js/runtime-main.5b4e4971.js.map",
+    "static/css/2.b4622e8d.chunk.css": "/Nullstic/static/css/2.b4622e8d.chunk.css",
+    "static/js/2.38498d5b.chunk.js": "/Nullstic/static/js/2.38498d5b.chunk.js",
+    "static/js/2.38498d5b.chunk.js.map": "/Nullstic/static/js/2.38498d5b.chunk.js.map",
+    "index.html": "/Nullstic/index.html",
+    "precache-manifest.30a7f05dd17bdc581df7ae51cad3df6d.js": "/Nullstic/precache-manifest.30a7f05dd17bdc581df7ae51cad3df6d.js",
+    "service-worker.js": "/Nullstic/service-worker.js",
+    "static/css/2.b4622e8d.chunk.css.map": "/Nullstic/static/css/2.b4622e8d.chunk.css.map",
+    "static/css/main.0784a744.chunk.css.map": "/Nullstic/static/css/main.0784a744.chunk.css.map"
+  }
+}
